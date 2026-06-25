@@ -1,61 +1,31 @@
 ## Quem bom te ver por aqui 👋
 
-<!--[README_QA.md](https://github.com/user-attachments/files/29193561/README_QA.md)
-
-**Pamwag/Pamwag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:<h1 align="center">Olá, eu sou Seu Nome 👋</h1>
-<h3 align="center">QA Engineer | Garantindo qualidade de software</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/seu-usuario/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://seusite.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" /></a>
-</p>
-
----
 
 ### 🧪 Sobre mim
 
-- 🔍 Analista/Engenheiro(a) de **Qualidade de Software (QA)**, com foco em [testes manuais / automação / performance / mobile]
-- 💼 Atualmente trabalho com [tipo de testes: funcional, regressão, API, E2E, etc.] no setor de [seu setor: fintech, e-commerce, saúde...]
-- 🤖 Automatizo testes com [Selenium / Cypress / Playwright / Robot Framework / Appium]
-- 🌱 Estudando atualmente: [Performance testing, BDD/Cucumber, testes de segurança, etc.]
-- 🎯 Objetivo: [ex: me especializar em automação de testes / liderar squad de QA / certificação ISTQB Avançado]
-- 💬 Posso te ajudar com: planos de teste, casos de teste, automação, BDD, gestão de bugs, CI/CD para QA
+- 🔍Formada em tecnologo em logistica e Estudando Analista de QA - Triple Ten Brasil 
+- 💼 Atualmente focada em comecar na area de tecnologia
+- 🤖 Automatizo testes com [pycharm ]
+- 🌱 Estudando atualmente: [Analista de QA]
+- 🎯 Objetivo: [ex: me especializar em automação de testes / trabalhar como QA junior / certificação ISTQB / ]
+- 💬 Posso te ajudar com: planos de teste, casos de teste, automação, gestão de bugs.
 
 ---
 
 ### 🛠️ Stack de Testes e Ferramentas
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/TestRail-65BC4C?style=for-the-badge&logo=testrail&logoColor=white" />
-</p>
 
-> Ajuste os badges para as ferramentas que você realmente usa (linguagens, frameworks de automação, gestão de testes, CI/CD). Mais opções em [shields.io](https://shields.io).
+
 
 ---
 
-### 🧰 Áreas de Atuação em QA
+### 🧰 Áreas que quero atuar em QA
 
 | Tipo de Teste | Ferramentas/Abordagem |
 |---|---|
 | Testes Manuais | Casos de teste, exploratório, regressão |
-| Automação Web | Selenium, Cypress, Playwright |
-| Testes de API | Postman, REST Assured, Insomnia |
-| Mobile | Appium |
-| Performance | JMeter, k6 |
-| BDD | Cucumber, Behave, Gherkin |
-| CI/CD | Jenkins, GitHub Actions, GitLab CI |
+| Testes de API | Postman
+| Python | Devtools | GitHub | UI 
 
 > Edite a tabela com o que faz sentido para sua experiência real.
 
@@ -83,19 +53,19 @@ Here are some ideas to get you started:<h1 align="center">Olá, eu sou Seu Nome 
 
 ### 🏆 Certificações
 
-- [ ] ISTQB Foundation Level
-- [ ] ISTQB Advanced Level
-- [ ] [Outra certificação relevante]
+- [ ] JLPT N3 - japones
+- [ ] Certificado English EF A1
+- [ ] Formacao em Tecnologo em logistica
 
 ---
 
 ### 📫 Como me encontrar
 
-- LinkedIn: [seu-usuario](https://www.linkedin.com/in/seu-usuario/)
-- E-mail: seuemail@exemplo.com
-- Site/Portfólio: [seusite.com](https://seusite.com)
+- LinkedIn: [Pâmela Wagatuma](https://www.linkedin.com/in/p%C3%A2mela-wagatuma-4326b6224/)
+- E-mail: pamelamm123@gmail.com
 
-<p align="center">⭐ Obrigado pela visita! Qualidade não é acaso, é processo.</p>
+
+<p align="center">⭐ Obrigado pela visita! Qualidade é o agora, é processo.</p>
 
 
 - 🔭 I’m currently working on ...
