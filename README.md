@@ -1,4 +1,5 @@
-## Quem bom te ver por aqui 👋
+## QA Analista de teste   
+Quem bom te ver por aqui 👋
 
 
 ### 🧪 Sobre mim
@@ -45,7 +46,7 @@
 
 ### 📌 Projetos em Destaque
 
-- **[Framework de Automação Web](https://github.com/seu-usuario/projeto-automacao)** — Suíte de testes E2E com [Cypress/Selenium], integrada ao CI/CD, cobrindo [X]% dos fluxos críticos.
+- **[UI / Design de teste / teste de regressao/teste fumaca]
 - **[Testes de API](https://github.com/seu-usuario/projeto-api-tests)** — Coleção de testes automatizados de API com [Postman/REST Assured], validando contratos e regras de negócio.
 - **[Portfólio de Casos de Teste](https://github.com/seu-usuario/portfolio-qa)** — Planos de teste, matriz de rastreabilidade e relatórios de bugs de projetos pessoais/estudo.
 
